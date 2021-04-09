@@ -8,5 +8,6 @@ public class Ass3Tester {
         vaccines.rafaleCustomTesting(6);
         Honors honors = new Honors();
         honors.rafaleTesting(30);
+        FordFulkerson.fordFulkersonCustomRafaleTesting(6);
     }
 }
