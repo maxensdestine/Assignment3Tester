@@ -1,0 +1,27 @@
+number of nodes:4
+first node threshold: 0 first node allies id: 2
+first node vaccine given to each ally: 10
+
+second node threshold:25 second node allies id: 3 4
+second node vaccine given to each ally: 10 10
+
+third node threshold: 2 third node allies id: 2 4
+third node vaccine given to each ally: 10 5
+
+fourth node threshold: 5 fourth node allies id: 2 3
+fourth node vaccine given to each ally: 10 2
+
+answer:2
+
+'Official' text result
+
+4
+0 2
+10
+25 3 4
+10 10
+2 2 4
+10 5
+5 2 3
+10 2
+2
