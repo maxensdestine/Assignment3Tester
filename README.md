@@ -2,8 +2,8 @@
 ## Don't share any of your code
 
 ### DISCLAIMER: 
-This tester adds import java.io.FileNotFoundException in the 3 classes that are to be submitted.
-Be sure to remove them before submitting your final work on codePost.
+This tester adds import java.io.FileNotFoundException in the FordFulkerson class that is to be submitted.
+Be sure to remove it before submitting your final work on codePost.
 
 To run the tests you only have to run the main method of Ass3Tester.java. If your Q1, Q2 and Q3 folders are not inside
 a A3 folder you will get a fileNotFound exception. To fix this either move your 3 "Q" folders inside an A3 folder or change
